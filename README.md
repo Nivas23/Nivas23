@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=Nivas23)
 
 [![Nivas23's GitHub | Stats](https://stats.quine.sh/Nivas23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nivas23)
